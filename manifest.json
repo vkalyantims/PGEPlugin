@@ -1,0 +1,13 @@
+{
+  "name": "com.Mosaic.PGEScripts",
+  "version": "1.0.0",
+  "displayName": "Shared Scripts",
+  "unity": "2020.3",
+  "description": "Common scripts for all our Unity projects.",
+  "keywords": ["shared","scripts"],
+  "author": {
+    "name": "Kalyan",
+    "email": "p-kalyanv@themosaiccompany.com",
+    "url": "https://github.com/vkalyantims/PGEPlugin.git"
+  }
+}
